@@ -2,6 +2,6 @@
 
 int main(void)
 {
-    std::cout << "hello\n";
+    std::cout << "hello branch A\n";
     return 0;
 }
